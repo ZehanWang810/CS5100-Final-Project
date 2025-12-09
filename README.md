@@ -3,7 +3,7 @@
 This repository contains my implementation for the **CS5100 Final Project (Phase 1 & Phase 2)**.  
 The goal is to predict whether a student is *at risk* of failing using the UCI Student Performance dataset.
 
----
+```text
 
 ## 📂 Repository Structure
 Final/
