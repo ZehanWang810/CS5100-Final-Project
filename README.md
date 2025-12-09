@@ -7,13 +7,18 @@ The goal is to predict whether a student is *at risk* of failing using the UCI S
 
 ## 📂 Repository Structure
 Final/
-│── student_project/ # Phase 1 implementation (preprocessing + ML pipeline)
-│── tests/ # Provided autograder tests
-│── datasets/ # Student dataset
-│── phase2_scope1_full_data.py # Scope Item 1 — Full dataset evaluation
-│── phase2_scope2_feature_selection.py # Scope Item 2 — Feature selection (Mutual Info)
-│── phase2_scope3_stacking.py # Scope Item 3 — Stacking ensemble
-│── CS5100Final_Report.pdf # Full report (Phase 1 + Phase 2 + Reflection)
+│
+├── student_project/          # Phase 1 implementation (preprocessing + ML pipeline)
+│
+├── tests/                   # Provided autograder tests
+│
+├── datasets/                # Student dataset
+│
+├── phase2_scope1_full_data.py        # Scope Item 1 — Full dataset evaluation
+├── phase2_scope2_feature_selection.py # Scope Item 2 — Feature selection (Mutual Info)
+├── phase2_scope3_stacking.py          # Scope Item 3 — Stacking ensemble
+│
+└── CS5100Final_Report.pdf             # Full report (Phase 1 + Phase 2 + Reflection)
 ---
 
 ## 🌟 Phase 1 Summary
